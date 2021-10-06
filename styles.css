@@ -1,8 +1,12 @@
 body {
     background-color: burlywood;
 }
-h1 {
+h1, h2 {
     color:rgb(192, 76, 99);
+}
+
+h2 {
+    transition:all 3s;
 }
 
 *{
